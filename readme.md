@@ -4,6 +4,8 @@
 ### Once you click Cancel or OK the virus clones itself 2 times
 ## How it was made?
 ### Virus was made by Tomekjestfajny1 in vbscript
+## Is it for old pc's?
+### If you dont spam, then yes
 ## Is it safe? 
 ### Yes! The virus won't steal your data or anything else
 ## How to close the virus?
