@@ -6,6 +6,12 @@
 ### Virus was made by Tomekjestfajny1 in vbscript
 ## Is it safe? 
 ### Yes! The virus won't steal your data or anything else
+## How to close the virus?
+### Just hit **Windows** + **R** and type
+
+```
+taskkill /f /im wscript.exe
+```
 
 # Important Notice
 ### The 'virus' is only for fun! You can prank your friends
